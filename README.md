@@ -31,7 +31,7 @@ Before you begin, ensure you have the following installed:
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/attendance-calculator.git
+git clone https://github.com/attendance-calculator.git
 ```
 
 2. **Navigate to the project directory**
@@ -101,9 +101,9 @@ yarn preview
    - Number of classes needed to attend if below threshold
 
 3. **Visual Indicators**
-   - 🟢 Green: Safe attendance level
-   - 🟡 Yellow: Warning - approaching threshold
-   - 🔴 Red: Critical - below required percentage
+   -  Green: Safe attendance level
+   -  Yellow: Warning - approaching threshold
+   -  Red: Critical - below required percentage
 
 ## 📁 Project Structure
 
@@ -159,8 +159,6 @@ Contributions are welcome! Please follow these steps:
 3. Commit your changes (`git commit -m 'Add some amazing feature'`)
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
-
-Project Link: [https://github.com/yourusername/attendance-calculator](https://github.com/yourusername/attendance-calculator)
 
 
 ## 📞 Support
